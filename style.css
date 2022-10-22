@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(48, 52, 62);
+    color: #ccd6f6;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 35px;
+}
+
+.top-section {
+    margin: 10%;
+}
+
+.orange-color {
+    color: rgb(223, 163, 43);
+}
+
+.hire-button {
+    color: #ccd6f6;
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 20px;
+    padding: 7px 15px;
+    border: #ccd6f6 solid;
+}
